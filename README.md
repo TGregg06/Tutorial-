@@ -1,4 +1,4 @@
 # Tutorial-
 discovering how readme works.
-# Learnign the hashtag. 
+# Learning the hashtag. 
 There are numerous flies outside. 
